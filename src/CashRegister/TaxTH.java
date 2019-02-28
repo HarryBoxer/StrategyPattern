@@ -1,3 +1,5 @@
+package CashRegister;
+
 public class TaxTH implements CalculateTax {
 
     @Override

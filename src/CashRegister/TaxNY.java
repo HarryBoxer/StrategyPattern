@@ -1,3 +1,5 @@
+package CashRegister;
+
 public class TaxNY implements CalculateTax {
     @Override
     public double calculateTax(double purchase) {
